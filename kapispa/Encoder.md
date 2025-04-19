@@ -110,5 +110,50 @@ Made for [Obsidian](https://obsidian.md/download)
 
 ![[Pasted image 20250419224627.png]]
 
+---
+# Ц
 
+![[Pasted image 20250419225554.png]]
+
+---
+# Ч
+
+![[Pasted image 20250419225921.png]]
+
+---
+# Ш
+
+![[Pasted image 20250419230037.png]]
+
+---
+# Щ
+
+![[Pasted image 20250419230139.png]]
+
+---
+# Ъ
+
+![[Pasted image 20250419230314.png]]
+
+---
+# Ы
+
+![[Pasted image 20250419230435.png]]
+
+---
+# Ь
+
+![[Pasted image 20250419230504.png]]
+
+---
+# Э
+![[Pasted image 20250419230647.png]]
+
+---
+# Ю
+
+![[Pasted image 20250419231145.png]]
+
+---
+# Я
 
