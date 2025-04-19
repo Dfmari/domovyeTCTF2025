@@ -44,12 +44,7 @@ def solve_lights_exact(initial, target):
     # Let x_r be whether we toggle row r
     # Let y_c be whether we toggle column c
     # Then for each light (i,j), the total toggles is x_i + y_j ≡ diff[i][j] mod 2
-    
-    # This gives us a system with (rows + cols) variables and (rows * cols) equations
-    
-    # We can solve this more efficiently
-    
-    # Build the augmented matrix for the system
+   
     A = []
     b = []
     
