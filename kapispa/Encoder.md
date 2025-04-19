@@ -3,157 +3,168 @@ Made for [Obsidian](https://obsidian.md/download)
 # A
 
 ![[Pasted image 20250419221831.png]]  
+in Russian - С
 
 ---
-# Б
+# B
 
 ![[Pasted image 20250419221944.png]]
+in Russian - А
 
 ---
-# В
+# C
 
 ![[Pasted image 20250419222017.png]]
+in Russian - Л
 
 ---
-# Г
+# D
 
 ![[Pasted image 20250419222121.png]]
+in Russian - О
 
 ---
-# Д
+# H
 
 ![[Pasted image 20250419222209.png]]
+in Russian - Н
 
 ---
-# Е
+# I
 
 ![[Pasted image 20250419222241.png]]
+in Russian - К
 
 ---
 
-# Ё
+# J
 
 ![[Pasted image 20250419222317.png]]
+in Russian - П
 
 ---
-# Ж
+# K
 
 ![[Pasted image 20250419222759.png]]
+in Russian - И
 
 ---
-# З
+# L
 ![[Pasted image 20250419222825.png]]
+in Russian - Б
 
 ---
-# И
+# M
 
 ![[Pasted image 20250419223111.png]]
+in Russian - Ь
 
 ---
 
-# Й
+# N
 
 ![[Pasted image 20250419223145.png]]
+in Russian - Ю
 
 ---
-# К
+# O
 ![[Pasted image 20250419223237.png]]
+in Russian - Т
 
 ---
-# Л
+# P
 
 ![[Pasted image 20250419223325.png]]
 
 ---
-# М
+# Q
 
 ![[Pasted image 20250419223400.png]]
 
 ---
-# О
+# R
 
 ![[Pasted image 20250419223440.png]]
 
 ---
-# П
+# S
 
 ![[Pasted image 20250419223540.png]]
 
 ---
 
-# Р
+# T
 
 ![[Pasted image 20250419223801.png]]
 
 ---
-# С
+# U
 
 ![[Pasted image 20250419223831.png]]
 
 ---
-# Т
+# V
 
 ![[Pasted image 20250419223938.png]]
 
 ---
-# У
+# W
 
 ![[Pasted image 20250419224027.png]]
 
 ---
-# Ф
+# X
 
 ![[Pasted image 20250419224507.png]]
 
 ---
-# Х
+# Y
 
 ![[Pasted image 20250419224627.png]]
 
 ---
-# Ц
+# Z
 
 ![[Pasted image 20250419225554.png]]
 
 ---
-# Ч
+# 1
 
 ![[Pasted image 20250419225921.png]]
 
 ---
-# Ш
+# 2
 
 ![[Pasted image 20250419230037.png]]
 
 ---
-# Щ
+# 3
 
 ![[Pasted image 20250419230139.png]]
 
 ---
-# Ъ
+# 4
 
 ![[Pasted image 20250419230314.png]]
 
 ---
-# Ы
+# 5
 
 ![[Pasted image 20250419230435.png]]
 
 ---
-# Ь
+# 6
 
 ![[Pasted image 20250419230504.png]]
 
 ---
-# Э
+# 7
 ![[Pasted image 20250419230647.png]]
 
 ---
-# Ю
+# 8
 
 ![[Pasted image 20250419231145.png]]
 
----
-# Я
+
 
