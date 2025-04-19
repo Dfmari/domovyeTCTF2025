@@ -1,0 +1,4 @@
+SQL table(/src/resources/sql):
+    INSERT INTO accounts (id, login, password, name, address, tariff) VALUES
+    (1, '00000001', '<REDACTED>', 'Капибар Капибарович Константинопольский (МЭР)', '[REDACTED]', 0);
+possibly need to crack the session(cypher Identifier returns nothing)
