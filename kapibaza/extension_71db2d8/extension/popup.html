@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Delivery Coupons Search</title>
+    <style>
+        body {
+          margin: 0;
+          padding: 0;
+          font-family: 'Arial', sans-serif;
+          background: linear-gradient(135deg, #6a11cb, #2575fc);
+          color: white;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 300px; 
+          width: 400px; 
+          overflow: hidden;
+        }
+    
+        
+        .container {
+          text-align: center;
+          padding: 20px;
+          border-radius: 15px;
+          background: rgba(255, 255, 255, 0.1);
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+          backdrop-filter: blur(10px);
+          border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+    
+        
+        h3 {
+          font-size: 24px;
+          margin-bottom: 10px;
+          font-weight: bold;
+          color: #fff;
+        }
+    
+        
+        p {
+          font-size: 14px;
+          margin-bottom: 20px;
+          color: #e0e0e0;
+        }
+    
+        
+        .buttons {
+          display: flex;
+          justify-content: center;
+          gap: 10px;
+        }
+    
+        button {
+          padding: 10px 20px;
+          border: none;
+          border-radius: 25px;
+          font-size: 14px;
+          font-weight: bold;
+          cursor: pointer;
+          transition: all 0.3s ease;
+        }
+    
+        #yes-btn {
+          background: #4caf50;
+          color: white;
+        }
+    
+        #yes-btn:hover {
+          background: #45a049;
+          transform: translateY(-2px);
+        }
+    
+        #no-btn {
+          background: #f44336;
+          color: white;
+        }
+    
+        #no-btn:hover {
+          background: #e53935;
+          transform: translateY(-2px);
+        }
+    
+        
+        .loader {
+          border: 4px solid rgba(255, 255, 255, 0.3);
+          border-top: 4px solid #fff;
+          border-radius: 50%;
+          width: 40px;
+          height: 40px;
+          animation: spin 1s linear infinite;
+          margin: 20px auto;
+          display: none; 
+        }
+    
+        @keyframes spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+    
+        
+        #result {
+          margin-top: 15px;
+          font-size: 14px;
+          color: #ff5100;
+          font-weight: bold;
+          display: none; 
+        }
+    
+        
+        @keyframes fadeIn {
+          from {
+            opacity: 0;
+            transform: translateY(20px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+    
+        .container {
+          animation: fadeIn 0.5s ease-out;
+        }
+    </style>
+    <script src="popup.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h3>🏷️Delivery Coupons🔖</h3>
+        <p id="question-text">Do you want to search for discount coupons?</p>
+        <div class="buttons">
+            <button id="yes-btn">Yes</button>
+            <button id="no-btn">No</button>
+        </div>
+        <div class="loader" id="loader"></div>
+        <p id="result"></p>
+    </div>
+</body>
+
+</html>
