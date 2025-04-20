@@ -1,1 +1,1 @@
-reconstruct the data source from content.js and find data.json Ctr+F look for flag and find tctf{no_more_extensions_in_my_browser}
+reconstruct the endpoint from content.js and find data.json Ctr+F look for flag and find tctf{no_more_extensions_in_my_browser}
