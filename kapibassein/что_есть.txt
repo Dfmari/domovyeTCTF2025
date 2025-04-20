@@ -1,0 +1,9 @@
+it compiles with "-include stdio.h" but gives this 
+<Капинженер> Агонь, оно успешно скомпилировалось. Ща запущу:
+invalid secret format: expected tctf{...}, got: 'the secret has been moved to new_secret.txt
+'
+basic_control_auth("./secret.txt"): Operation not permitted
+
+<Капинженер> Блииин, похоже нужно new_secret.txt посмотреть!
+cannot pipe into cat 
+possibly -D
