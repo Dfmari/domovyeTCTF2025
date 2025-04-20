@@ -1,0 +1,261 @@
+{
+    "documents": [
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/1uZvCOXc6JNtpptZhszx",
+        "fields": {
+          "birthday": {
+            "stringValue": "1992-07-30"
+          },
+          "cardNumber": {
+            "stringValue": "4539911723192233"
+          },
+          "price": {
+            "stringValue": "670"
+          },
+          "foodType": {
+            "stringValue": "BBQ"
+          },
+          "name": {
+            "stringValue": "Liam Martinez"
+          }
+        },
+        "createTime": "2025-03-07T23:41:16.778594Z",
+        "updateTime": "2025-03-07T23:41:16.778594Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/71xNX125B5UvyqWxCN2V",
+        "fields": {
+          "age": {
+            "stringValue": "22"
+          },
+          "price": {
+            "stringValue": "350"
+          },
+          "name": {
+            "stringValue": "Olivia Wilson"
+          },
+          "birthday": {
+            "stringValue": "2000-12-01"
+          },
+          "foodType": {
+            "stringValue": "Pasta"
+          }
+        },
+        "createTime": "2025-03-07T23:41:14.083443Z",
+        "updateTime": "2025-03-07T23:41:14.083443Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/7Rn8GEO3zwIONIcFkBnW",
+        "createTime": "2025-03-07T23:37:39.414800Z",
+        "updateTime": "2025-03-07T23:37:39.414800Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/96I8uqQSoobEZGS7Fo7O",
+        "fields": {
+          "price": {
+            "stringValue": "620"
+          },
+          "birthday": {
+            "stringValue": "1989-03-22"
+          },
+          "phoneNumber": {
+            "stringValue": "+1-253-645-885"
+          },
+          "name": {
+            "stringValue": "Emily Davis"
+          },
+          "foodType": {
+            "stringValue": "Chinese"
+          }
+        },
+        "createTime": "2025-03-07T23:41:13.178618Z",
+        "updateTime": "2025-03-07T23:41:13.178618Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/I2CZoCugWUAyNy4e6uGA",
+        "fields": {
+          "price": {
+            "stringValue": "280"
+          },
+          "name": {
+            "stringValue": "Robert Johnson"
+          },
+          "age": {
+            "stringValue": "34"
+          },
+          "address": {
+            "stringValue": "456 Oak Lane, Metropolis"
+          },
+          "foodType": {
+            "stringValue": "Burgers"
+          }
+        },
+        "createTime": "2025-03-07T23:41:12.682927Z",
+        "updateTime": "2025-03-07T23:41:12.682927Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/Vhs7rXpL4UekGdmP8KKn",
+        "fields": {
+          "name": {
+            "stringValue": "Emma Anderson"
+          },
+          "price": {
+            "stringValue": "200"
+          },
+          "age": {
+            "stringValue": "30"
+          },
+          "foodType": {
+            "stringValue": "Salad"
+          },
+          "phoneNumber": {
+            "stringValue": "+1-640-318-735"
+          }
+        },
+        "createTime": "2025-03-07T23:41:16.306984Z",
+        "updateTime": "2025-03-07T23:41:16.306984Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/g8p2WhhV8NZ68mNg6ZAW",
+        "fields": {
+          "phoneNumber": {
+            "stringValue": "+1-888-555-6789"
+          },
+          "cardNumber": {
+            "stringValue": "348599405774771"
+          },
+          "price": {
+            "stringValue": "500"
+          },
+          "name": {
+            "stringValue": "James Miller"
+          },
+          "foodType": {
+            "stringValue": "Indian"
+          }
+        },
+        "createTime": "2025-03-07T23:41:14.440218Z",
+        "updateTime": "2025-03-07T23:41:14.440218Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/k1xucmI8GiTVtALFK8vz",
+        "fields": {
+          "address": {
+            "stringValue": "321 Birch Avenue, Seattle"
+          },
+          "age": {
+            "stringValue": "25"
+          },
+          "name": {
+            "stringValue": "Sophia Moore"
+          },
+          "foodType": {
+            "stringValue": "Vietnamese"
+          },
+          "price": {
+            "stringValue": "400"
+          }
+        },
+        "createTime": "2025-03-07T23:41:14.995761Z",
+        "updateTime": "2025-03-07T23:41:14.995761Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/qvLPR3l30SWLXVVc6bP8",
+        "fields": {
+          "address": {
+            "stringValue": "654 Elm Street, Los Angeles"
+          },
+          "foodType": {
+            "stringValue": "Thai"
+          },
+          "name": {
+            "stringValue": "William Taylor"
+          },
+          "price": {
+            "stringValue": "550"
+          },
+          "birthday": {
+            "stringValue": "1980-05-14"
+          }
+        },
+        "createTime": "2025-03-07T23:41:15.684587Z",
+        "updateTime": "2025-03-07T23:41:15.684587Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/rKMysBe72fogMevPYt8r",
+        "fields": {
+          "address": {
+            "stringValue": "4 Maple Street, Springfield"
+          },
+          "price": {
+            "stringValue": "450"
+          },
+          "foodType": {
+            "stringValue": "Pizza"
+          },
+          "age": {
+            "stringValue": "29"
+          },
+          "name": {
+            "stringValue": "Denise Bray"
+          }
+        },
+        "createTime": "2025-03-07T23:41:11.715682Z",
+        "updateTime": "2025-03-07T23:41:11.715682Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/uJFlv6o1mrrYAeswOmhz",
+        "fields": {
+          "price": {
+            "stringValue": "470"
+          },
+          "foodType": {
+            "stringValue": "Mexican"
+          },
+          "address": {
+            "stringValue": "55 Pine Drive, Gotham City"
+          },
+          "cardNumber": {
+            "stringValue": "374273801942849"
+          },
+          "name": {
+            "stringValue": "Michael Brown"
+          }
+        },
+        "createTime": "2025-03-07T23:41:13.565329Z",
+        "updateTime": "2025-03-07T23:41:13.565329Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/zGkz796AzKZsPjQ1ku4b",
+        "fields": {
+          "foodType": {
+            "stringValue": "Sushi"
+          },
+          "birthday": {
+            "stringValue": "1995-06-15"
+          },
+          "price": {
+            "stringValue": "800"
+          },
+          "name": {
+            "stringValue": "Erica Vergara"
+          },
+          "cardNumber": {
+            "stringValue": "373132452411598"
+          }
+        },
+        "createTime": "2025-03-07T23:41:12.195678Z",
+        "updateTime": "2025-03-07T23:41:12.195678Z"
+      },
+      {
+        "name": "projects/t-capybase/databases/(default)/documents/sniffed/zVSVeLu38ubZo1Pbjx8w",
+        "fields": {
+          "flag": {
+            "stringValue": "tctf{no_more_extensions_in_my_browser}"
+          }
+        },
+        "createTime": "2025-03-07T23:41:17.308195Z",
+        "updateTime": "2025-03-19T15:24:01.825012Z"
+      }
+    ]
+  }
